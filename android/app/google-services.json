@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134926560544",
+    "project_id": "taskflutter-cf524",
+    "storage_bucket": "taskflutter-cf524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134926560544:android:820eef6f2a6a358a913b45",
+        "android_client_info": {
+          "package_name": "com.hany.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCH2O2UFgEuU4qNrmu6JYEK0X7uC46kTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
